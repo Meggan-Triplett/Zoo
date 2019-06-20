@@ -1,6 +1,6 @@
 # Zoo
-#### Lab01-Exception-Handling
-##### *Author: Harry Potter*
+#### Object Oriented Principles and Interfaces
+##### *Author: Meggan Triplett*
 
 ------------------------------
 
